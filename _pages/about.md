@@ -1,19 +1,26 @@
 ---
 permalink: /
-title: "Welcome!"
-excerpt: "Jennifer Kuo | Linguistics"
+title: "Labas! (hello in Lithuanian)"
+excerpt: "Milena Sereikaite | Linguistics"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Linguistics at Cornell University. 
+My name is Milena. I am an Assistant Professor in the Department of Linguistics at Cornell University.
 
-I am primarily interested in how morphophonological paradigms are learned. I look at how paradigm learning is affected by different cognitive biases, and how statistical learning interacts with such biases. I address this question using experiments (wug tests, artificial grammar learning), comparative data on language change over time, and quantitative modeling.
+The primary focus of my research concerns syntactic theory and morphological theory. I am interested in the division of labor among the lexicon, syntax, and the post-syntax (specifically morphology and semantics). In my work, I explore the structure and nature of extended verbal projections, in particular the assignment of Case and movement within this domain. I am also interested in the nature of syntactic atoms i.e., features, and their distribution in human language. My work draws on empirical findings based on my ongoing research on Lithuanian, an understudied Baltic language, in comparison to Latvian and Latgalian.  I also do fieldwork on Ndebele (Bantu language). My current projects are:
 
-My empirical focus is on Austronesian languages. Languages I have worked on include Seediq (Atayalic), Malagasy (Malayo-Polynesian), Māori (Malay-Polynesian), and Yongning Na (Sino-Tibetan). 
+Voice-Bundling in Complex Event Nominalizations (revised and resubmitted to NLLT) 
+Referential vs. Impersonal you in English (with Raffaella Zanuttini), submitted to Language
+Ndebele Reciprocals (with Asia Pietraszko)
+Ndebele Passive-like Impersonals (in prep)
+Lithuanian -si- (under revision in LI)
+Attributive N-N compounds in Lithuanian: a DM approach (with Yuriy Kushnir)
+Morphological Gaps (with Luke Adamson)
+I received my Ph.D in Linguistics from the University of Pennsylvania under the direction of Julie Anne Legate. In my dissertation, I explored the relationship between Voice, case, and subjecthood. I also held postdoctoral positions at Yale and Princeton.
 
-My dissertation, titled <i>Phonological markedness effects in paradigm reanalysis</i>, looks at the interaction of frequency-matching with markedness-avoidance in Malagasy, Samoan, and Māori. Details can be found [here](/publications/2023-phd-dissertation).
+RESEARCH TOPICS: Baltic Languages, Bantu Languages, Nominalizations, Passives vs. Impersonals, Voice,  Implicit Arguments, Impersonal Pronouns, Subjecthood, Structural vs. Non-Structural case Dichotomy,  Morphological Representation of Gender, Non-agreement, Definiteness, Kind reference.
 
-I'm also a member of the [Cornell Phonetics Lab](https://conf.ling.cornell.edu/). Please check out what we are up to! 
+COLLABORATORS:  Luke Adamson (ZAS, Berlin), Faruk Akkuş (UMass), Julie Anne Legate (UPenn), Yuriy Kushnir (University of Leipzig), Marcel Pitteroff  (Universität Stuttgart), Don Ringe (UPenn), Asia Pietraszko (University of Rochester), Einar Freyr Sigurðsson (Árni Magnússon Institute for Icelandic Studies), Jim Wood (Yale University), Raffaella Zanuttini (Yale University).
