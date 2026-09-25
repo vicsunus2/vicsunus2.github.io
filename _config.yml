@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jennifer Kuo"
+title                    : "Milena Sereikaite"
 title_separator          : "-"
-name                     : &name "Jennifer Kuo"
+name                     : &name "Milena Sereikaite"
 description              : &description "personal website"
-url                      : https://jenniferxkuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : #https://jenniferxkuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jenniferxkuo/jenniferxkuo.github.io"
+repository               : #"jenniferxkuo/jenniferxkuo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -47,7 +47,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   : false # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -82,14 +82,14 @@ google_analytics: G-4KXVVRZH3W
 
 # Site Author
 author:
-  name             : "Jennifer Kuo"
+  name             : "Milena Sereikaite"
   avatar           : "profile.png"
-  bio              : "Assistant prof., phonology, Cornell University"
+  bio              : "Assistant Professor, Syntax"
   location         : #"UCLA"
-  employer         :
+  employer         : "Cornell University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=rELxSugAAAAJ&hl=en"
-  email            : "jk2767@cornell.edu"
+  googlescholar    : #"https://scholar.google.com/citations?user=rELxSugAAAAJ&hl=en"
+  email            : #"jk2767@cornell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jenniferxkuo"
+  github           : #"jenniferxkuo"
   google_plus      :
   keybase          :
   instagram        :
